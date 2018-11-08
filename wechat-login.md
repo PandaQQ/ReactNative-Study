@@ -3,3 +3,5 @@
 
 ####  前言
 在RN的开发中，iOS按照 https://github.com/yorkie/react-native-wechat 步骤配置基本正确。反而在Android上遇到的坑实在不少，记录下开发中的细节。希望使用RN开发的同学不会在这里浪费太多时间。
+
+####  package名转换
